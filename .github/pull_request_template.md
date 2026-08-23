@@ -32,6 +32,9 @@
 - [ ] GitHub repository is public: <!-- paste link -->
 - [ ] License is clearly stated: <!-- e.g., MIT, Apache 2.0 -->
 
+**Evidence of maturity / adoption:**  
+<!-- Required for new or less-known projects. Examples: meaningful stars/forks, sustained maintenance, active users/contributors, independent community discussion, third-party references, or established production use. There is no fixed star threshold. -->
+
 ---
 
 ## SaaS Checklist *(fill in if type = SaaS)*
@@ -80,4 +83,5 @@
 ## Contributor Acknowledgement
 
 - [ ] I have read [CONTRIBUTING.md](../CONTRIBUTING.md) and my submission meets all the stated criteria.
+- [ ] I understand that meeting the minimum open-source checklist does not guarantee inclusion; this is a curated list and the maintainer may consider maturity, adoption, maintenance, and independent validation.
 - [ ] I understand that PRs not meeting the standards will be closed without merging.
