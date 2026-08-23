@@ -20,6 +20,9 @@ Open-source submissions are **strongly preferred** and held to the following sta
 - Must provide a public **GitHub repository link**.
 - Must have a recognizable **open-source license** (MIT, Apache 2.0, GPL, etc.).
 - The project must be demonstrably related to SEO (crawling, analysis, rank tracking, schema, sitemap generation, etc.).
+- Meeting these minimum requirements **does not guarantee inclusion**. This is a curated list, not a project directory.
+- The maintainer may consider evidence of **real-world adoption, sustained maintenance, community use, independent discussion, and established value**. Very new or minimally adopted projects may be declined until stronger evidence exists.
+- GitHub stars/forks may be considered as one signal of adoption, but there is **no fixed star threshold** and stars alone are not sufficient.
 
 #### SaaS / Commercial Tools
 SaaS tools are accepted **only** if they meet **all** of the following criteria:
@@ -65,6 +68,7 @@ Entries added to the README must follow the existing style:
 - [ ] Verify the link is live and resolves correctly.
 - [ ] Confirm the description is neutral (no marketing language).
 - [ ] For open-source: confirm the GitHub repo is public and the license is visible.
+- [ ] For open-source: provide evidence of maturity/adoption when the project is new or not widely known.
 - [ ] For SaaS: confirm you have at least 2 independent third-party references.
 
 ### Contribution Workflow
@@ -95,6 +99,9 @@ Entries added to the README must follow the existing style:
 - 必须提供公开的 **GitHub 仓库链接**。
 - 必须有明确的**开源许可证**（MIT、Apache 2.0、GPL 等）。
 - 项目必须与 SEO 明确相关（爬虫、分析、排名追踪、Schema、Sitemap 生成等）。
+- 满足以上最低条件**并不代表一定会被收录**。本项目是精选列表，不是项目目录。
+- 维护者会综合考虑**真实使用、持续维护、社区采用、独立讨论和长期价值**。刚发布或采用度很低的项目，可能会在出现更充分的外部验证后再考虑收录。
+- GitHub stars/forks 可以作为采用度信号之一，但**不会设置固定 star 门槛**，star 数本身也不足以决定收录。
 
 #### SaaS / 商业工具
 SaaS 工具**仅在满足以下所有条件**时才予以收录：
@@ -134,6 +141,7 @@ SaaS 工具**仅在满足以下所有条件**时才予以收录：
 - [ ] 确认链接可访问且正确跳转。
 - [ ] 确认描述为中立表述（无营销语言）。
 - [ ] 开源项目：确认 GitHub 仓库公开且 License 可见。
+- [ ] 开源项目：如果项目较新或知名度较低，请提供成熟度/采用度的外部证据。
 - [ ] SaaS 工具：确认您有至少 2 个独立的第三方参考链接。
 
 ### 贡献流程
